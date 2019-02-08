@@ -9,7 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-venv/
+venv
 build/
 develop-eggs/
 dist/
@@ -59,4 +59,4 @@ docs/_build/
 target/
 
 # Pycharm
-.idea/
+.idea
